@@ -1,6 +1,6 @@
 # npmdoc-camelize
 
-#### api documentation for  [camelize (v1.0.0)](https://github.com/substack/camelize)  [![npm package](https://img.shields.io/npm/v/npmdoc-camelize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-camelize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-camelize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-camelize)
+#### basic api documentation for  [camelize (v1.0.0)](https://github.com/substack/camelize)  [![npm package](https://img.shields.io/npm/v/npmdoc-camelize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-camelize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-camelize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-camelize)
 
 #### recursively transform key strings to camel-case
 
@@ -85,7 +85,8 @@
             ]
         }
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
